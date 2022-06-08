@@ -1,0 +1,9 @@
+name: CESMD
+channels:
+  - conda-forge
+dependencies:
+  - python =3.7
+  - pandas
+  - folium
+  - colorama
+  - basemap
