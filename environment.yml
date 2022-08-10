@@ -8,4 +8,4 @@ dependencies:
   - colorama
   - basemap
   - obspy
-  - gmprocess
+
